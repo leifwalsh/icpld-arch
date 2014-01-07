@@ -3,7 +3,7 @@ Description=ICPLD
 After=local-fs.target network.target
 
 [Service]
-Type=simple
+Type=forking
 ExecStart=/usr/bin/icpld
 ExecStop=/usr/bin/icpld -quit
 

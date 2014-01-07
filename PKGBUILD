@@ -22,7 +22,7 @@ source=(http://www.ibiblio.org/$pkgname/download/$pkgname-$pkgver.tar.gz
         icpld.service
         icpld.conf)
 md5sums=('e6ba14964ee11c20adf6f7f35b62ccb0'
-         '3136b2ce2340d5a44a894cc77841fe4d'
+         'f1b8c006d4aef3f68f4cba3d5235b10e'
          'cbec49385174bd19f8d4acebc73be0cc')
 noextract=()
 
