@@ -2,9 +2,9 @@
 # Maintainer: Leif Walsh <leif.walsh@gmail.com>
 pkgname=icpld
 pkgver=1.1.5
-pkgrel=1
-pkgdesc="a connection monitor which allows you to keep track of your network connection perfomance."
-arch=('i686' 'x86_64')
+pkgrel=2
+pkgdesc="a connection monitor which allows you to keep track of your network connection performance"
+arch=('i686' 'x86_64' 'armv6h')
 url="http://www.ibiblio.org/icpld/"
 license=('BSD')
 backup=(etc/icpld.conf)
